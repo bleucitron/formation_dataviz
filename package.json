@@ -1,0 +1,24 @@
+{
+  "name": "dataviz",
+  "version": "1.0.0",
+  "description": "Starting point of the data visualization course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iOiurson/formation-dataviz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iOiurson/formation-dataviz/issues"
+  },
+  "homepage": "https://github.com/iOiurson/formation-dataviz#readme",
+  "devDependencies": {
+    "csv-parser": "^2.3.2",
+    "esm": "^3.2.25"
+  }
+}

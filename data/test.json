@@ -1,0 +1,119 @@
+[
+  {
+    "media_type": "tv",
+    "channel_name": "France 2",
+    "is_public_channel": "True",
+    "year": "2018",
+    "women_expression_rate": "37.24429925353736",
+    "speech_rate": "80.14594445691887",
+    "nb_hours_analyzed": "2087.0"
+  },
+  {
+    "media_type": "tv",
+    "channel_name": "France 2",
+    "is_public_channel": "True",
+    "year": "2019",
+    "women_expression_rate": "38.918406967043744",
+    "speech_rate": "80.46073324959082",
+    "nb_hours_analyzed": "826.0"
+  },
+  {
+    "media_type": "tv",
+    "channel_name": "France 24",
+    "is_public_channel": "True",
+    "year": "2011",
+    "women_expression_rate": "43.79999051786408",
+    "speech_rate": "89.25936615934296",
+    "nb_hours_analyzed": "1647.0"
+  },
+  {
+    "media_type": "tv",
+    "channel_name": "France 24",
+    "is_public_channel": "True",
+    "year": "2012",
+    "women_expression_rate": "45.018032863354094",
+    "speech_rate": "88.88753573019608",
+    "nb_hours_analyzed": "1639.0"
+  },
+  {
+    "media_type": "tv",
+    "channel_name": "France 24",
+    "is_public_channel": "True",
+    "year": "2013",
+    "women_expression_rate": "43.82043031788675",
+    "speech_rate": "89.15693583530904",
+    "nb_hours_analyzed": "1706.0"
+  },
+  {
+    "media_type": "tv",
+    "channel_name": "France 24",
+    "is_public_channel": "True",
+    "year": "2014",
+    "women_expression_rate": "44.99147959145337",
+    "speech_rate": "88.81098407191337",
+    "nb_hours_analyzed": "1617.0"
+  },
+  {
+    "media_type": "tv",
+    "channel_name": "France 24",
+    "is_public_channel": "True",
+    "year": "2015",
+    "women_expression_rate": "44.448384793572934",
+    "speech_rate": "89.05238087052878",
+    "nb_hours_analyzed": "1669.0"
+  },
+  {
+    "media_type": "tv",
+    "channel_name": "France 24",
+    "is_public_channel": "True",
+    "year": "2016",
+    "women_expression_rate": "45.933815900407396",
+    "speech_rate": "88.65923218891542",
+    "nb_hours_analyzed": "1662.0"
+  },
+  {
+    "media_type": "tv",
+    "channel_name": "France 24",
+    "is_public_channel": "True",
+    "year": "2017",
+    "women_expression_rate": "44.64361657109559",
+    "speech_rate": "88.46010472940344",
+    "nb_hours_analyzed": "1697.0"
+  },
+  {
+    "media_type": "tv",
+    "channel_name": "France 24",
+    "is_public_channel": "True",
+    "year": "2018",
+    "women_expression_rate": "45.99064159398676",
+    "speech_rate": "88.91086738174639",
+    "nb_hours_analyzed": "2051.0"
+  },
+  {
+    "media_type": "tv",
+    "channel_name": "France 24",
+    "is_public_channel": "True",
+    "year": "2019",
+    "women_expression_rate": "47.917399538024654",
+    "speech_rate": "89.22670657532464",
+    "nb_hours_analyzed": "826.0"
+  },
+  {
+    "media_type": "tv",
+    "channel_name": "France 3",
+    "is_public_channel": "True",
+    "year": "2010",
+    "women_expression_rate": "29.843796534996375",
+    "speech_rate": "80.22053887490176",
+    "nb_hours_analyzed": "1725.0"
+  },
+  {
+    "media_type": "tv",
+    "channel_name": "France 3",
+    "is_public_channel": "True",
+    "year": "2011",
+    "women_expression_rate": "30.01198827972812",
+    "speech_rate": "80.20647093456759",
+    "nb_hours_analyzed": "1637.0"
+  }
+]
