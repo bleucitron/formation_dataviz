@@ -20,10 +20,12 @@ names.forEach(name => {
   // Pour une radio, créer la donnée utile
   const nameData = paroles.filter(p => p.channel_name === name);
 
+  const xy = nameData.map(c => ({ x: c.year, y: c.women_expression_rate }));
   const years = nameData.map(c => c.year);
   const wers = nameData.map(c => c.women_expression_rate);
 
   const dataObject = {
+    xy,
     years,
     wers,
   };
@@ -31,6 +33,41 @@ names.forEach(name => {
   data[name] = dataObject;
 });
 
-console.log('Data', data);
+function getAllYears(data) {
+  return Object.values(data).reduce((acc, cur) => {
+    return [...new Set([...acc, ...cur.years].sort())];
+  }, []);
+}
 
-ReactDOM.render(<App />, document.getElementById('root'));
+console.log('YEARS', getAllYears(data));
+
+function harmonize(data) {
+  const allYears = getAllYears(data);
+  const newData = Object.entries(data).map(([name, value]) => {
+    const newWers = allYears.map(year => {
+      if (value.years.includes(year)) {
+        const i = value.years.findIndex(y => y === year);
+        return value.wers[i];
+      }
+      return null;
+    });
+
+    return [
+      name,
+      {
+        years: allYears,
+        wers: newWers,
+      },
+    ];
+  });
+
+  return Object.fromEntries(newData);
+}
+
+console.log('Data', data);
+console.log('Harmonize Data', harmonize(data));
+
+ReactDOM.render(
+  <App data={harmonize(data)} />,
+  document.getElementById('root'),
+);
