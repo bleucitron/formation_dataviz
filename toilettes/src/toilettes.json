@@ -1,0 +1,512 @@
+[
+  {
+    "address": "Place Simiot",
+    "typology": "Urinoir",
+    "lon": "-0.577401302396619",
+    "lat": "44.8229789881203"
+  },
+  {
+    "address": "PARC BORDELAIS",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.600384785507879",
+    "lat": "44.8518757331012"
+  },
+  {
+    "address": "6 rue Lateulade",
+    "typology": "Urinoir",
+    "lon": "-0.586105120495989",
+    "lat": "44.8391837160707"
+  },
+  {
+    "address": "Boulevard Albert 1er",
+    "typology": "Urinoir",
+    "lon": "-0.563501719887714",
+    "lat": "44.8133783910564"
+  },
+  {
+    "address": "Rue Edouard Laroque",
+    "typology": "Urinoir",
+    "lon": "-0.601465902773003",
+    "lat": "44.8315457925211"
+  },
+  {
+    "address": "PLACE DU CARDINAL DONNET ",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.56317776864567",
+    "lat": "44.8223627770735"
+  },
+  {
+    "address": "QUAI DESCHAMPS",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.553819543734433",
+    "lat": "44.8357121865269"
+  },
+  {
+    "address": "PLACE CHARLES GRUET",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.580894225221999",
+    "lat": "44.8466357102486"
+  },
+  {
+    "address": "PLACE ANDRE MEUNIER",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.562346841011999",
+    "lat": "44.8296768356338"
+  },
+  {
+    "address": "PLACE DES MARTYRS DE LA RESISTANCE",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.585344222200568",
+    "lat": "44.8432362152831"
+  },
+  {
+    "address": "COURS DU XXX JUILLET",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.574484493019735",
+    "lat": "44.8438730756022"
+  },
+  {
+    "address": "RUE FERNAND CAZERES",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.616188412809179",
+    "lat": "44.8515956648193"
+  },
+  {
+    "address": "Rue de la Benauge",
+    "typology": "Urinoir",
+    "lon": "-0.546787725644995",
+    "lat": "44.8415842334095"
+  },
+  {
+    "address": "PARC CEREY",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.604366206069451",
+    "lat": "44.850765408364"
+  },
+  {
+    "address": "COURS DE L'ARGONNE",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.576731489285663",
+    "lat": "44.8266185575674"
+  },
+  {
+    "address": "PLACE FRANCIS DE PRESSENCE",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.57538140833515",
+    "lat": "44.8321722300589"
+  },
+  {
+    "address": "PLACE NANSOUTY",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.572028424456086",
+    "lat": "44.8202910190818"
+  },
+  {
+    "address": "PLACE CALIXTE CAMELLE",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.549915079880538",
+    "lat": "44.8428007120278"
+  },
+  {
+    "address": "RUE LOUIS GENDREAU",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.582307982229384",
+    "lat": "44.860581162375"
+  },
+  {
+    "address": "278 avenue Thiers",
+    "typology": "Urinoir",
+    "lon": "-0.545764497549835",
+    "lat": "44.8493355094859"
+  },
+  {
+    "address": "PLACE GAMBETTA",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.580500493359958",
+    "lat": "44.8413992560026"
+  },
+  {
+    "address": "RUE LHERISSON",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.578206447597773",
+    "lat": "44.8244033003095"
+  },
+  {
+    "address": "QUAI DE LA GRAVE MAISON JARDINIER",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.558550657121559",
+    "lat": "44.8320159108826"
+  },
+  {
+    "address": "PARC AUX ANGELIQUES",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.561318699520833",
+    "lat": "44.850037489114"
+  },
+  {
+    "address": "QUAI DE QUEYRIES",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.565089980969551",
+    "lat": "44.8453287693979"
+  },
+  {
+    "address": "JARDIN PUBLIC 2",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.576423665209004",
+    "lat": "44.8484987917125"
+  },
+  {
+    "address": "PLACE BIR HAKEIM",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.565813444420164",
+    "lat": "44.8365360662017"
+  },
+  {
+    "address": "Alfred Smith",
+    "typology": "Urinoir",
+    "lon": "-0.612898308114987",
+    "lat": "44.8246182459392"
+  },
+  {
+    "address": "PLACE SAINTE EULALIE",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.577123366854941",
+    "lat": "44.8332637652618"
+  },
+  {
+    "address": "MAIRIE DE QUARTIER",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.543826556879397",
+    "lat": "44.8770415832956"
+  },
+  {
+    "address": "PLACE STALINGRAD 1",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.559646510785304",
+    "lat": "44.8410373864982"
+  },
+  {
+    "address": "QUAI DE LA GRAVE 2",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.561183797149825",
+    "lat": "44.8336550601252"
+  },
+  {
+    "address": "Place Dormoy",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.564338688911709",
+    "lat": "44.826702152816"
+  },
+  {
+    "address": "SALLE DES FETES",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.579061489704142",
+    "lat": "44.8563901975093"
+  },
+  {
+    "address": "PARC FLORAL",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.565964582860944",
+    "lat": "44.9048936557054"
+  },
+  {
+    "address": "PLACE DES CAPUCINS",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.568139368943024",
+    "lat": "44.8303582263382"
+  },
+  {
+    "address": "POLE D'ECHANGE DES QUINCONCES",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.573331958509923",
+    "lat": "44.8446356759873"
+  },
+  {
+    "address": "PLACE STALINGRAD 2",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.560018170645716",
+    "lat": "44.8398150858205"
+  },
+  {
+    "address": "ANGLE CANTENAC ET FLORNOY",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.610968982269826",
+    "lat": "44.8331302155055"
+  },
+  {
+    "address": "Rue Ferdinand Palau",
+    "typology": "Urinoir",
+    "lon": "-0.545207732057116",
+    "lat": "44.8429112389689"
+  },
+  {
+    "address": "PLACE PAUL DOUMER",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.574062386736374",
+    "lat": "44.8519636831117"
+  },
+  {
+    "address": "QUAI LOUIS XVIII",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.570350026323772",
+    "lat": "44.8468355162235"
+  },
+  {
+    "address": "QUAI DES CHARTRONS JEUX D'ENFANTS",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.567034486475458",
+    "lat": "44.8526511883209"
+  },
+  {
+    "address": "PLACE SAINT MARTIAL",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.564302298803582",
+    "lat": "44.8585676524296"
+  },
+  {
+    "address": "Place Calixte Camelle",
+    "typology": "Urinoir",
+    "lon": "-0.550276995051103",
+    "lat": "44.8430459616536"
+  },
+  {
+    "address": "Place Adolphe Buscaillet",
+    "typology": "Urinoir",
+    "lon": "-0.549685687212364",
+    "lat": "44.8705870807628"
+  },
+  {
+    "address": "Rue Pierre Trébod",
+    "typology": "Urinoir",
+    "lon": "-0.584594318243944",
+    "lat": "44.8611569179781"
+  },
+  {
+    "address": "JARDIN PUBLIC 3",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.578053123079946",
+    "lat": "44.8488228593478"
+  },
+  {
+    "address": "QUAI DES CHARTRONS IBAIA",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.569871065936675",
+    "lat": "44.8490391334735"
+  },
+  {
+    "address": "PLACE CASABLANCA",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.5576776393227",
+    "lat": "44.8261309834369"
+  },
+  {
+    "address": "PLACE AMELIE RABA LEON",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.603357224245578",
+    "lat": "44.8295012037086"
+  },
+  {
+    "address": "QUAI DE PALUDATE",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.5512029757563",
+    "lat": "44.8276911059445"
+  },
+  {
+    "address": "QUAI DE LA GRAVE 1",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.562947500651469",
+    "lat": "44.8348809746268"
+  },
+  {
+    "address": "PLACE DES CAPUCINS",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.5668273987799",
+    "lat": "44.8305442076186"
+  },
+  {
+    "address": "Boulevard Albert Brandenburg",
+    "typology": "Urinoir",
+    "lon": "-0.544397658157027",
+    "lat": "44.8750589140867"
+  },
+  {
+    "address": "BASSINS A FLOTS",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.562648724402819",
+    "lat": "44.8674610238749"
+  },
+  {
+    "address": "Place André Meunier",
+    "typology": "Urinoir",
+    "lon": "-0.562934514433197",
+    "lat": "44.8295197686845"
+  },
+  {
+    "address": "PLACE DE LA REPUBLIQUE",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.580155821128263",
+    "lat": "44.8348098592054"
+  },
+  {
+    "address": "PLACE PEY BERLAND",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.576719626429686",
+    "lat": "44.8376601540381"
+  },
+  {
+    "address": "GINKO",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.571061686735715",
+    "lat": "44.8805424143687"
+  },
+  {
+    "address": "COURS DU CHAPEAU ROUGE",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.572155915354497",
+    "lat": "44.8423610330701"
+  },
+  {
+    "address": "QUAI DE PALUDATE",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.550582690456464",
+    "lat": "44.8274008589386"
+  },
+  {
+    "address": "PLACE DE LA VICTOIRE",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.573148866859362",
+    "lat": "44.8312666888538"
+  },
+  {
+    "address": "PARC BRASCASSAT",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.556480408277315",
+    "lat": "44.8143372004609"
+  },
+  {
+    "address": "PLACE GAVINIES",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.594345531677509",
+    "lat": "44.8330024141026"
+  },
+  {
+    "address": "JARDIN PUBLIC 1",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.57827565844344",
+    "lat": "44.8477738086125"
+  },
+  {
+    "address": "Rue Paul Broca",
+    "typology": "Urinoir",
+    "lon": "-0.571911810532468",
+    "lat": "44.8314194068105"
+  },
+  {
+    "address": "PARC BORDELAIS",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.599304573702467",
+    "lat": "44.8535214578978"
+  },
+  {
+    "address": "PAUL PAIN LEVE",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.574926709330031",
+    "lat": "44.8407727497114"
+  },
+  {
+    "address": "PLACE JACQUES LEMOINE",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.575043128366433",
+    "lat": "44.8399515195893"
+  },
+  {
+    "address": "COURS VICTOR HUGO",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.57481472160218",
+    "lat": "44.8351789164392"
+  },
+  {
+    "address": "QUAI RICHELIEU MAISON ECOCITOYENNE",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.567295649872644",
+    "lat": "44.8387803599183"
+  },
+  {
+    "address": "PLACE DU COLONEL RAYNAL",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.582585503949104",
+    "lat": "44.8386821941407"
+  },
+  {
+    "address": "RUE DES TERRES DE BORDES",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.554632268544746",
+    "lat": "44.8243289888982"
+  },
+  {
+    "address": "PLACE DES PINS FRANCS",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.621477885053302",
+    "lat": "44.8570766054048"
+  },
+  {
+    "address": "ALLEES DE CHARTRES",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.574978791045948",
+    "lat": "44.8468903887911"
+  },
+  {
+    "address": "Place d'Arlac",
+    "typology": "Urinoir",
+    "lon": "-0.588380953484703",
+    "lat": "44.8307789206283"
+  },
+  {
+    "address": "Place de la République",
+    "typology": "Urinoir",
+    "lon": "-0.578596931422134",
+    "lat": "44.8349248309065"
+  },
+  {
+    "address": "Place Philippe Lebon",
+    "typology": "Urinoir",
+    "lon": "-0.548228124603145",
+    "lat": "44.8769804615684"
+  },
+  {
+    "address": "PLACE DUBURG",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.565027063305381",
+    "lat": "44.8343888659824"
+  },
+  {
+    "address": "Frantz Schrader",
+    "typology": "Urinoir",
+    "lon": "-0.607823787054809",
+    "lat": "44.8351750342679"
+  },
+  {
+    "address": "PLACE FERDINAND BUISSON",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.551332449828981",
+    "lat": "44.8241539555576"
+  },
+  {
+    "address": "RUE DE LA BECHADE",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.599255806925545",
+    "lat": "44.8242614850598"
+  },
+  {
+    "address": "Allée de Bristol",
+    "typology": "Chalet de nécessité",
+    "lon": "-0.57245896949849",
+    "lat": "44.8471255231749"
+  },
+  {
+    "address": "PARC PINCON",
+    "typology": "Sanitaire automatique",
+    "lon": "-0.543572382613402",
+    "lat": "44.8448743520559"
+  }
+]
