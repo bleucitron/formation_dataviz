@@ -4,10 +4,7 @@ import { Line } from 'react-chartjs-2';
 
 import './App.css';
 
-function App({ data }) {
-  console.log('DATA France Culture', data['France Culture']);
-  console.log('DATA France O', data['France O']);
-
+function App({ data, types }) {
   const datasets = Object.entries(data).map(([name, value]) => ({
     label: name,
     data: value.wers,
@@ -21,15 +18,6 @@ function App({ data }) {
       <Line
         data={{
           labels: data['France Culture'].years,
-          // datasets: [
-          //   {
-          //     label: 'Nostalgie',
-          //     data: data['Nostalgie'].wers,
-          //     borderColor: randomColor(),
-          //     pointRadius: 2,
-          //     fill: false,
-          //   },
-          // ],
           datasets,
         }}
         options={{

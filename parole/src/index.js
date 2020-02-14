@@ -28,6 +28,8 @@ names.forEach(name => {
     xy,
     years,
     wers,
+    mediaType: nameData[0].media_type,
+    isPublic: nameData[0].is_public_channel === 'True',
   };
 
   data[name] = dataObject;
@@ -39,7 +41,14 @@ function getAllYears(data) {
   }, []);
 }
 
+function getAllMediaTypes() {
+  const allMediaTypes = new Set(paroles.map(d => d.media_type));
+
+  return [...allMediaTypes];
+}
+
 console.log('YEARS', getAllYears(data));
+console.log('Medias', getAllMediaTypes());
 
 function harmonize(data) {
   const allYears = getAllYears(data);
@@ -64,10 +73,12 @@ function harmonize(data) {
   return Object.fromEntries(newData);
 }
 
-console.log('Data', data);
-console.log('Harmonize Data', harmonize(data));
+const harmonizedData = harmonize(data);
+const types = getAllMediaTypes();
+
+console.log('Harmonized Data', harmonizedData);
 
 ReactDOM.render(
-  <App data={harmonize(data)} />,
+  <App data={harmonizedData} types={types} />,
   document.getElementById('root'),
 );
