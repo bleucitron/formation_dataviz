@@ -66,6 +66,8 @@ function harmonize(data) {
       {
         years: allYears,
         wers: newWers,
+        mediaType: value.mediaType,
+        isPublic: value.isPublic,
       },
     ];
   });
